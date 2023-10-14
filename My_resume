@@ -1,0 +1,63 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rusume</title>
+</head>
+<main>
+<body style="background-color:wheat;">
+    <section>
+    <h1>
+        Sagar Chouhan</h1>
+        <pre>
+    Mumbai,Maharashtra
+    chouhansagar6192@gmail.com
+    8329557742
+        </pre>
+    </section>
+    <section>
+        <h3>Personal Details</h3>
+        <hr>
+    <ul>
+    <li> <b>Date Of Birth:</b>13/06/2001 </li>   
+    <li> <b>Hightest Career Level:</b> Freasher </li> 
+    <li> <b>Hobby:</b>Playing Cricket</li>
+    <li> <b>Learning Web Devlopment</b></li>
+    </ul>
+    </section>
+    <h3>
+        Education
+    </h3>
+    <hr>
+    <pre>
+        <big><B>Bacherlor's in Commerce</B></big>
+        Mumbai university, CHM college - Mumbai,Maharashtra
+        <small>July 2019 to 2022</small>
+    </pre>
+    <pre>
+        <big><b>Higher Secondary(12th pass) in IT,MATHS(Commerce)</b></big>
+        New English Junior College - Mumbai,Maharashtra
+        <small>June 2017 to 2019</small>
+    </pre>
+    <h3>
+        Skills
+    </h3>
+    <hr>
+    <ul>
+        <li>
+            Microsoft Office, Tally
+        </li>
+        <li>
+            Adobe Photoshop
+        </li>
+        <li>
+            Html, Css, Javascript
+        </li>
+    </ul>
+</body>
+</main>
+</html>
